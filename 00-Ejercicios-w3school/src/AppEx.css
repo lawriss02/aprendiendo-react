@@ -3,9 +3,7 @@
     padding: 2vw;
     border-radius: 1vw;
     width: 70vw;
-    position: fixed;  /* Fixes the div to a specific position */
-         /* Aligns the div to the left */
-        /* Ensures the div takes up the full width */
+    position: fixed; 
     z-index: 100; 
 }
 
@@ -49,7 +47,6 @@ button:hover {
 }
 
 .ex-nav{
-    /*border-bottom: 3vw solid #000 ;*/
     background-color: #aaa;
     padding: 2vh 5vw;
     margin-bottom: 2vh;

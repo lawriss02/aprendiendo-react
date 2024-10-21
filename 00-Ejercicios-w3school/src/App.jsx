@@ -1,54 +1,10 @@
 import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
-//import './App.css'
 import './AppEx.css'
-
-import { TwitterFollowCard } from './TwitterFollowCard.jsx'
 import {ExerciseCard} from './ExerciseCard.jsx'
 import { AsideNav } from './AsideNav.jsx'
 
-/*
-const users = [
-  {
-    userName: 'midudev',
-    name: 'Miguel Ángel Durán',
-    isFollowing: true
-  },
-  {
-    userName: 'pheralb',
-    name: 'Pablo H.',
-    isFollowing: false
-  },
-  {
-    userName: 'PacoHdezs',
-    name: 'Paco Hdez',
-    isFollowing: true
-  },
-  {
-    userName: 'TMChein',
-    name: 'Tomas',
-    isFollowing: false
-  }
-]
-
-function App() {
-  return (
-    <section className='App'>
-      {
-        users.map(({ userName, name, isFollowing }) => (
-          <TwitterFollowCard
-            key={userName}
-            userName={userName}
-            initialIsFollowing={isFollowing}
-          >
-            {name}
-          </TwitterFollowCard>
-        ))
-      }
-    </section>
-  )
-}*/
 
 const exercises = [
   {
