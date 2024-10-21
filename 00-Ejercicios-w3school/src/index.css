@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  background: #222;
+  font-family: system-ui;
+  
+  place-content: center;
+  min-height: 100vh;
+}
+
+.global{
+  display: flex;
+  margin: 2vw;
+  height: 90vh;
+  
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  justify-content: center;
+}
+
+.Nav {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  background-color: black;
+  margin-right: 2vw;
+  padding: 1vw;
+  border-radius: 1vw;
+}

@@ -1,0 +1,1 @@
+In this directory you can see the projects I have been working on during my path of learning React.

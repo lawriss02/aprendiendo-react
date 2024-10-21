@@ -1,0 +1,61 @@
+.ex-card{
+    background-color: #a76f6f;
+    padding: 2vw;
+    border-radius: 1vw;
+    width: 70vw;
+    position: fixed;  /* Fixes the div to a specific position */
+         /* Aligns the div to the left */
+        /* Ensures the div takes up the full width */
+    z-index: 100; 
+}
+
+.ex-card-content{
+    background-color: #c5c5c5;
+    padding: 2vw;
+    border-radius: 1vw;
+    
+}
+
+button{
+    border-radius: 2vw;
+    padding: .5vw 1vw;
+    cursor:pointer;
+    color: #fff;
+    box-shadow: 1px 5px 5px rgba(0, 0, 0, .8);
+
+}
+
+button:hover {
+    opacity: .7;
+}
+
+.ex-card-content-button{
+    background-color: #000;
+    margin-top: 2vw;
+}
+
+.ex-card-button{
+    background-color: rgb(23, 139, 81);
+    margin: 2vw 0vw ;
+}
+
+.ex-card-content p{
+    background-color: yellow;
+    
+}
+
+.is-answer{
+    color: blue;
+}
+
+.ex-nav{
+    /*border-bottom: 3vw solid #000 ;*/
+    background-color: #aaa;
+    padding: 2vh 5vw;
+    margin-bottom: 2vh;
+    border-radius: 1vw;
+}
+
+.ex-selected{
+    background-color: rgb(197, 81, 100);
+}
