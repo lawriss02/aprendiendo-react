@@ -1,7 +1,7 @@
 # React + Vite
 
 - I created this small project in order to practice my basic knowledgment of React JS. 
-- I got inspired by the w3school website, which has these kind of exercicis for learning the sintaxis of different programming languages. This 3 examples are taken from the js course.
+- I got inspired by the w3school website, which has these kind of exercicis for learning the sintaxis of different programming languages. These 3 examples are taken from the js course.
 - I learned the principals of React through out midudev's youtube course.
 
 
